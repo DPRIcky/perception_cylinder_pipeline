@@ -18,9 +18,9 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='eva',
-    maintainer_email='eva@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer_email='eva@example.com',
+    description='ROS 2 point-cloud perception pipeline for semantic cylinder detection.',
+    license='UNLICENSED',
     extras_require={
         'test': [
             'pytest',
