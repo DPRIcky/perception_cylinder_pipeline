@@ -164,11 +164,11 @@ Below are example detection results from processing the three provided rosbags:
 
 ### Combined Video (All 3 Rosbags)
 
-<video src="media/assignment%201-%20perception.mp4" controls width="900">
-  Your browser does not support embedded video playback.
-</video>
+Inline preview (GIF) of combined cylinder detection across all three rosbags:
 
-Direct link: [Download/View combined detection video](media/assignment%201-%20perception.mp4)
+![Combined Cylinder Detection (All 3 Rosbags)](media/assignment%201-%20perception.gif)
+
+Direct MP4 link (higher quality): [Open combined detection video](media/assignment%201-%20perception.mp4)
 
 ### Rosbag 0 Detection
 ![Rosbag 0 Cylinder Detection](media/rosbag_0.png)
