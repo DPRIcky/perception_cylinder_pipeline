@@ -168,17 +168,6 @@ Inline preview (GIF) of combined cylinder detection across all three rosbags:
 
 ![Combined Cylinder Detection (All 3 Rosbags)](media/assignment%201-%20perception.gif)
 
-Direct MP4 link (higher quality): [Open combined detection video](media/assignment%201-%20perception.mp4)
-
-### Rosbag 0 Detection
-![Rosbag 0 Cylinder Detection](media/rosbag_0.png)
-
-### Rosbag 1 Detection
-![Rosbag 1 Cylinder Detection](media/rosbag_1.png)
-
-### Rosbag 2 Detection
-![Rosbag 2 Cylinder Detection](media/rosbag_2.png)
-
 ## Marker Semantics
 
 Each detected cylinder is shown as a `CYLINDER` marker in namespace `detections`.
