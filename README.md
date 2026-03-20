@@ -162,6 +162,14 @@ If frame transforms differ for a bag, only adjust RViz `Fixed Frame` as needed.
 
 Below are example detection results from processing the three provided rosbags:
 
+### Combined Video (All 3 Rosbags)
+
+<video src="media/assignment%201-%20perception.mp4" controls width="900">
+  Your browser does not support embedded video playback.
+</video>
+
+Direct link: [Download/View combined detection video](media/assignment%201-%20perception.mp4)
+
 ### Rosbag 0 Detection
 ![Rosbag 0 Cylinder Detection](media/rosbag_0.png)
 
