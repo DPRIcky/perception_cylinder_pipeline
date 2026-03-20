@@ -26,13 +26,6 @@ Use this table to quickly verify rubric coverage and where each requirement is i
 | Task 3: Cylinder Detection | Cylinder RANSAC using normals and inlier radius check | Completed | `find_single_cylinder()`, `fit_cylinders_in_clusters()` |
 | Task 4: Semantic Color Labels | RGB->HSV and label cylinders by hue bands | Completed | `rgb_to_hsv()`, `semantic_label_from_rgb()`, marker label colors |
 
-### Bag Evidence
-
-| Rosbag | Output Snapshot |
-|---|---|
-| rgbd_bag_0 | `media/rosbag_0.png` |
-| rgbd_bag_1 | `media/rosbag_1.png` |
-| rgbd_bag_2 | `media/rosbag_2.png` |
 
 ## Features
 
